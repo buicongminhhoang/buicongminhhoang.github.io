@@ -362,7 +362,7 @@
                 <div class="col-sm-12">
                     <div class="section-title">
                         <h2>Liên lạc với tôi</h2>
-                        <h1>+(84) 34 919 6633</h1>
+                        <h1>034 919 6633</h1>
                     </div>
                 </div>
             </div>
