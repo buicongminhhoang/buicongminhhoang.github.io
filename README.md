@@ -297,7 +297,7 @@
                 </div>
 
                 <div class="item">
-                    <div class="number">125</div>
+                    <div class="number">99</div>
                     <div class="text">Cốc cà phê đã uống</div>
                 </div>
 
